@@ -1,0 +1,1 @@
+Everything linked to this card needs to be filled in
