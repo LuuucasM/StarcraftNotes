@@ -10,7 +10,9 @@
     border-radius: 5px;
     border: 1px solid var(--lightgray);
     box-sizing: border-box;
-    height: 250px;
+    width: 35vh; // or 800px, or 90vw — whatever fits your layout
+    max-width: 100%; // ensure it’s not being capped
+    height: 35vh;
     margin: 0.5em 0;
     position: relative;
     overflow: hidden;
