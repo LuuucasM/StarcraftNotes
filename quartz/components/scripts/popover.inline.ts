@@ -30,7 +30,12 @@ async function mouseEnterHandler(
   function showPopover(popoverElement: HTMLElement) {
     clearActivePopover()
     const href = link.href
+    const popoverInner = document.querySelector('.popover-inner')
 
+    if (popoverInner) {
+      popoverInner.scrollTo({ top: 0, behavior: 'instant' })
+    }
+    
     if (href.includes('#')) {
       const lastHref = href.split('#').pop()
       id = lastHref ?? ''
