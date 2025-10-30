@@ -9,7 +9,7 @@ Link to game: https://www.youtube.com/watch?v=hVMCJKtC4a8&t=2331s
 
 Map: [[Eclipse]]
 
-Snows Build: [[BUILD ORDER TODO]] Rains Build: [[BUILD ORDER TODO]]
+Snows Build: [[1 gate robo reaver expand]] Rains Build: [[BUILD ORDER TODO]]
 ### Game Build and Notes
 - 8 - 00:50 - pylon
 - 10 - 1:13 - gate

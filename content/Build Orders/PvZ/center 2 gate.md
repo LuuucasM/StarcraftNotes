@@ -1,0 +1,8 @@
+- after the 5th probe mines one mineral patch send it across the map
+- 8 - 0:49 - pylon (in the center)
+- 9 - 1:14 - gate 1
+- 9 - 1:28 - gate 2
+- @100% gate 1  (and then 2) full pump zealots
+- 15 - 2:16 - pylon
+- 22 - 2:50 - pylon
+- 29 - 3:35 - pylon

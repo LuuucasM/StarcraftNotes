@@ -9,7 +9,7 @@ Link to game: https://youtu.be/hVMCJKtC4a8?si=if1A_lrUlecVe-uJ&t=6503
 
 Map: [[Dominator]]
 
-Snow BO: [[BUILD ORDER TODO]]
+Snow BO: [[center 2 gate]]
 Rain BO: [[BUILD ORDER TODO]]
 
 ### Game Build and Notes

@@ -9,7 +9,7 @@ Link to game: https://youtu.be/hVMCJKtC4a8?si=e6hezL_7FhLyHOPK&t=3814
 
 Map: [[Deja Vu]]
 
-Snow BO: [[BUILD ORDER TODO]]
+Snow BO: [[1 gate robo expand reaver]]
 Rain BO: [[BUILD ORDER TODO]]
 
 ### Game Build and Notes
@@ -43,7 +43,9 @@ Rain BO: [[BUILD ORDER TODO]]
 
 `note: snows robo build order was obs -> revaer -> suttle -> reaver. I believe that when snow feels like hes going to get attacked he instead goes second reaver before shuttle but in this case since he scouted they were doing similar things its better to go shuttle cuz reaver + shuttle > reaver + reaver`
 
-- 9:30 - gate 5, 6 `note: I think you can get these gates a bit earlier maybe aroun 9:00 or late 8min but snow was very busy microing. Rain got his around late 8min `
+- 9:30 - gate 5, 6 
+
+`note: I think you can get these gates a bit earlier maybe aroun 9:00 or late 8min but snow was very busy microing. Rain got his around late 8min `
 
 `note: at this at about the ~10min mark both have 6 gates and robo constantly producing goon reaver shuttle (and obs if needed). They will just sit on this for a while until probably the game ends. i am not sure how you determine if you should switch to templar in pvp`
 

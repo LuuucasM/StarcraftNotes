@@ -1,0 +1,1 @@
+Whenever you have the pylon as part of the wall in a vertical wall setup, 

@@ -1,0 +1,21 @@
+- 8  - 0:57 - pylon
+- 10 - 1:13 - gate
+- 11 - 1:29 - gas
+- 13 - 1:55 - cyber
+- 14 - 2:05 - zeelot
+- 16 - 2:14 - pylon
+- @100% core - 2:36 - -> dragoon
+- 21 - 2:50 - goon range
+- 24 - 3:13 - pylon
+- 26 - 3:40 - robo
+- 30 - 4:14 - pylon
+- 34 - 4:48 - observatory
+- 35 - 4:55 - nexus
+- 38 - 5:12 - robo bay
+- 38 - 5:24 - pylon
+- @100% observer - 5:30 - reaver
+- 56 - 6:44 - gate 2
+- 7:05 - shuttle speed
+- 73 - 7:44 - gate 3, 4
+- 9:30 - gate 5, 6 
+- 10:30 3rd expansion

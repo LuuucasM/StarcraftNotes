@@ -1,0 +1,22 @@
+- 8 - 00:50 - pylon
+- 10 - 1:13 - gate
+- 11 - 1:30 - gas
+- 13 - 1:55 - cyber
+- 16 - 2:17 - pylon
+- @2:32 - zealot pops out
+- @100% cyber - goon
+- @3:10 - goon pops out
+- 24 - 3:17 - pylon
+- 26 - 3:44 - robo
+- 29 - 4:06 - pylon
+- @100% robo - observatory
+- @100% observatory - observer + robo bay
+- 38 - 5:06 - pylon
+- @100% robo bay, reaver
+- 47 - 5:45 - pylon
+- 48 - 5:58 - nexus
+- @100% reaver - reaver
+- 6:30 - pylon
+- 6:40 - gateway up to 2 gates
+- @100% reaver - shuttle
+- ~8:00 - 4 more gates up to 6 gates
