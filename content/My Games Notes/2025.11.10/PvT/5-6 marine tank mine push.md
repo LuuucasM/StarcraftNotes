@@ -1,0 +1,1 @@
+- against this kind of push when opening greedy like nexus before range and second goon its better to just fall back to ur natural. u can build a wall in ur natural and there is not much the terran can do about it

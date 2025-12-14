@@ -4,13 +4,14 @@ tags:
   - PvP
   - Snow
   - EarlyGame
+  - Rain
 ---
 Link to game: https://youtu.be/hVMCJKtC4a8?si=DlQzmFfvHXzuYsNo&t=3116
 
 Map: [[Metropolis]]
 
-Snow BO: [[BUILD ORDER TODO]]
-Rain BO: [[BUILD ORDER TODO]]
+Snow BO: NA
+Rain BO: [[content/Build Orders/PvP/center 2 gate|center 2 gate]]
 
 ### Game Build and Notes
 - 8 -  00:47 - pylon

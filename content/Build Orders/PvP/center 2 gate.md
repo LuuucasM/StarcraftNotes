@@ -1,6 +1,4 @@
-- after new (5th) probe returns 1 mineral payload send it out to the middle of the map
-- 8 - 0:49 - pylon
-- 9 - 1:13 - gate
-- 9 - 1:28 - gate 2
-- @100% gates -> pump zealots
-- 15 - 2:18 - pylon
+##### Occurrences
+- [[Snow vs Rain Asl19 ro8 g3]]
+- [[Snow vs Rain ASL19 RO8 G6]]
+- 
