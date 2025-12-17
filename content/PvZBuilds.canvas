@@ -1,7 +1,7 @@
 {
 	"nodes":[
+		{"id":"4789c41259dda3fd","type":"group","x":-600,"y":600,"width":480,"height":2920,"label":"9gate expand"},
 		{"id":"50e3b24e2637e95c","type":"group","x":360,"y":600,"width":440,"height":2780,"label":"12 Nexus First"},
-		{"id":"4789c41259dda3fd","type":"group","x":-600,"y":600,"width":400,"height":2780,"label":"9gate expand"},
 		{"id":"304a35e9d4851d08","type":"group","x":1200,"y":600,"width":400,"height":2511,"label":"13 nexus first"},
 		{"id":"ed41fb8ba00eafd3","type":"text","text":"8 - 0:48 - pylon 1 ","x":-40,"y":300,"width":250,"height":50},
 		{"id":"fb6ac48db2c8a942","type":"text","text":"4:27 - assimilator 2","x":409,"y":1638,"width":250,"height":60},
@@ -88,7 +88,8 @@
 		{"id":"ce30b83c94bb9fd5","type":"text","text":"15 - 1:55 - pylon 2","x":-539,"y":972,"width":250,"height":68},
 		{"id":"7f497654952db75e","type":"text","text":"16 - 2:17 - zealot 2","x":-539,"y":1072,"width":250,"height":60},
 		{"id":"b5c3c5f7698fe6de","type":"text","text":"21 - 2:48 - nexus","x":-538,"y":1152,"width":250,"height":60},
-		{"id":"1fd94636df90034c","type":"text","text":"21 - 2:56 - zealot 3 ","x":-538,"y":1232,"width":250,"height":60}
+		{"id":"1fd94636df90034c","type":"text","text":"21 - 2:56 - zealot 3 ","x":-538,"y":1232,"width":250,"height":60},
+		{"id":"f72e56ccb3785e33","x":-538,"y":3313,"width":250,"height":60,"type":"text","text":"14:50 - start storm upgrade + start making HT"}
 	],
 	"edges":[
 		{"id":"2ad1914e1f12167e","fromNode":"3ebaeb2281e3342b","fromSide":"bottom","toNode":"53a4a8bec92d023a","toSide":"top"},
@@ -172,6 +173,7 @@
 		{"id":"9e907ed3b17369d8","fromNode":"65d4a5233cd15de1","fromSide":"bottom","toNode":"8740f2ccc88cea3b","toSide":"top"},
 		{"id":"8a71cad44ca74a9c","fromNode":"8740f2ccc88cea3b","fromSide":"bottom","toNode":"8101324c8c4b14c7","toSide":"top"},
 		{"id":"03c7e51cdfee16a0","fromNode":"8101324c8c4b14c7","fromSide":"bottom","toNode":"e199b9a49627be4f","toSide":"top"},
-		{"id":"f7bebdafbd6388e2","fromNode":"e199b9a49627be4f","fromSide":"bottom","toNode":"48ca932d7a5be16b","toSide":"top"}
+		{"id":"f7bebdafbd6388e2","fromNode":"e199b9a49627be4f","fromSide":"bottom","toNode":"48ca932d7a5be16b","toSide":"top"},
+		{"id":"f00a30c92cb52782","fromNode":"ae606730b4552c12","fromSide":"bottom","toNode":"f72e56ccb3785e33","toSide":"top"}
 	]
 }

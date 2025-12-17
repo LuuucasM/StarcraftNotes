@@ -1,3 +1,3 @@
 ##### Occurrences
-- [[Snow vs Ssak Proleague 25.10.2]]
+- [[Snow vs Ssak 25.10.2 PL]]
 - 
