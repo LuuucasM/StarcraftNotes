@@ -1,0 +1,6 @@
+- generate random number between 1-3
+	- 1 = pvp
+	- 2 = pvt
+	- 3 = pvz
+- generate random number between 1 and however many games analyzed
+- go into single player and try and copy that game

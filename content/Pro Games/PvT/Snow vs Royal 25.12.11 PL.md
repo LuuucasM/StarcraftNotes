@@ -10,7 +10,7 @@ Link to game: https://www.youtube.com/live/y9Px0BZIvOg?si=58MGgwAlb91luCAU&t=536
 
 Map: [[Dominator]]
 
-Snow BO: [[25 nexus]]
+Snow BO: [[25 nexus no range]]
 
 ### Game Build and Notes
 ![[Pasted image 20251214133427.png]]
