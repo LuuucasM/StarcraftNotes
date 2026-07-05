@@ -10,7 +10,7 @@ Link to game: https://youtu.be/hVMCJKtC4a8?si=e6hezL_7FhLyHOPK&t=3814
 
 Map: [[Deja Vu]]
 
-Snow BO: [[1 gate robo expand reaver]]
+Snow BO: [[1 gate robo expand]]
 Rain BO: [[BUILD ORDER TODO]]
 
 ### Game Build and Notes

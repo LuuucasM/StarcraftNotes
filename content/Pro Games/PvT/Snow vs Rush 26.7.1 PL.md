@@ -1,6 +1,10 @@
 ---
 tags:
   - ProGame
+  - Snow
+  - Rush
+  - PvT
+  - MidGame
 ---
 Link to game: https://vod.sooplive.com/player/199794715?change_second=13036
 

@@ -10,8 +10,8 @@ Link to game: https://www.youtube.com/watch?v=hVMCJKtC4a8&t=2331s
 
 Map: [[Eclipse]]
 
-Snows Build: [[1 gate robo reaver expand]] 
-Rains Build: [[1 gate expand robo]]
+Snows Build: [[1 gate robo expand]]
+Rains Build: [[1 gate expand]]
 ### Game Build and Notes
 - 8 - 00:50 - pylon
 - 10 - 1:13 - gate
