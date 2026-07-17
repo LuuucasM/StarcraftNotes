@@ -11,9 +11,9 @@ TOP RIGHT:
 - m5 and m8 can also be boosted this way about 50-55% of the way returned
 BOTTOM LEFT:
 - On game start send to m4
-- then split onto m1 and m3. the other probe that hits m4 will quickly auto switch to m6 giving optimal splits
+- then split (middle 2 probes) onto m1 and m3. the other probe that hits m4 will quickly auto switch to m6 giving optimal splits
 - the next probe goes on m9
-- m9 and m8 can be boosted pressing around 50-55% of the way returned to the nexus
+- m9 and m8 can be boosted pressing around 55% of the way returned to the nexus
 BOTTOM RIGHT:
 
 
