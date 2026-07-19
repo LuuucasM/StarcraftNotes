@@ -21,6 +21,7 @@ Rain BO: [[BUILD ORDER TODO]]
 - 16 - 2:15 - pylon
 - @100% cyber -> goon -> on 21 get range
 - 22 - 3:08 - gate 2
+`note: halt probes here and build a second dragoon (22 -> 24 supply)`
 - 24 - 3:16 - pylon
 - 29 - 4:02 - robo
 - 29 - 4:10 - pylon
